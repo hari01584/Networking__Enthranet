@@ -15,7 +15,15 @@ export default {
   white: '#FFF',
   lighter: '#BBDEFB',
   light: '#DAE1E7',
-  dark: '#1976D2',
+  dark: 'indigo',
   darg:'#607D8B',
   black: '#000',
+
+  darkgreen: '#006400',
+  cyan: '#00FFFF',
+  royalblue: '#4169E1',
+  darkviolet: '#9400D3',
+  antiquewhite: '#FAEBD7',
+  honeydew: '#F0FFF0',
+  skinny: '#fb8500',
 };

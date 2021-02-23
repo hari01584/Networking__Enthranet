@@ -21,7 +21,7 @@ const Header = (): Node => (
     style={styles.background}
     imageStyle={styles.logo}>
     <Text style={styles.text}>Enthranet Network Protocol Client</Text>
-    <Text style={styles.sub}>Made By Agent_Orange#9852</Text>
+    <Text style={styles.sub}>Made By Agent_Orange#9852(Discord IGN)</Text>
   </ImageBackground>
 );
 
